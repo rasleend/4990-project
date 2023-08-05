@@ -5,7 +5,7 @@ camera images as an input for machine learning algorithms, and how to use the
 results of the inference model to create anchors in the AR scene.
 
 <p align="center">
-  <img width="200" src="docs/screenshot.png">
+  <img width="200" src="docs/demo.mp4">
 </p>
 
 This sample uses [ML Kit's Object Detection](https://developers.google.com/ml-kit/vision/object-detection)
