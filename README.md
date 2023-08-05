@@ -4,10 +4,12 @@ An [ARCore](https://developers.google.com/ar) sample demonstrating how to use
 camera images as an input for machine learning algorithms, and how to use the
 results of the inference model to create anchors in the AR scene.
 
-<video width="320" height="240" controls>
-      <source src="docs/demo.mp4" type=video/mp4>
-    </video>
 
+<p align="center">
+
+https://github.com/rasleend/4990-project/assets/49121563/7a795d09-e6c3-47fa-bcb2-1d9f144ccf73
+
+</p>
 
 This sample uses [ML Kit's Object Detection](https://developers.google.com/ml-kit/vision/object-detection)
 and (optionally) [Google's Cloud Vision API](https://cloud.google.com/vision/docs/object-localizer)
